@@ -5,5 +5,5 @@ resource "google_folder" "ams_labs" {
 
 resource "google_folder" "TMN" {
   display_name = "TMN"
-  parent       = google_folder.ams_labs
+  parent       = google_folder.ams_labs.name
 }
