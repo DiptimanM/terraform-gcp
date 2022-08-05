@@ -1,6 +1,7 @@
 projectName = "ams-terraform-test"
 projectId = "ams-terraform-test"
-region = "us-east1-c"
+region = "us-east1"
+zone = "us-east1-c"
 folderId = "folders/510816707782"
 vpcName = "ams-terraform-vpc"
 snet1Name = "ams-terraform-snet1"
