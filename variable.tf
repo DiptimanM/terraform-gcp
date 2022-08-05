@@ -17,3 +17,11 @@ variable "folderId"{
 variable "vpcName"{
     type=string
 }
+
+variable "snet1Name"{
+    type=string
+}
+
+variable "ipRange1"{
+    type=string
+}
