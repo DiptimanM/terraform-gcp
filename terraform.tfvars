@@ -1,4 +1,4 @@
-projectName = "AMS Terraform Project"
+projectName = "ams-terraform-test"
 projectId = "ams-terraform-test"
 region = "us-east1-c"
 folderId = "folders/510816707782"
