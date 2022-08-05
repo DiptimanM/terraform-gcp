@@ -1,0 +1,5 @@
+projectName = "AMS Terraform Project"
+projectId = "ams-terraform-test"
+region = "us-east1-c"
+folderId = "folders/510816707782"
+vpcName = "ams-terraform-vpc"
